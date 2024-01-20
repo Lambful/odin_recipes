@@ -1,2 +1,8 @@
-This project is a basic introduction to working to git while making
-a basic html page for recipes like based.com
+This project is first inroduction to making a website page with few pages of
+recipes of russian cuisine.
+
+Project mostly covers these skills:
+- basic skills with html
+- git workflow practise
+
+
